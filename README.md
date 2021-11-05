@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
+<img align="left" src="https://github.com/1vnr/lvn/blob/main/4.gif" alt="logo.png" width="200" /> 
 
 ```csharp
 lvnar was here

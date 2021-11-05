@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://github.com/1vnr/lvn/blob/main/4.gif" alt="logo.png" width="200" /> 
+<img align="left" src="https://cdn.discordapp.com/avatars/877434286091943976/f14ff77f970826decef9f94dc335c335.png?size=80" alt="logo.png" width="200" /> 
 
 ```csharp
 lvnar was here

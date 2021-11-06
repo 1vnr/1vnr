@@ -27,4 +27,4 @@ Languages  :  C, Go, PHP, Python, Java, C#
 
 ---
 
-![](https://komarev.com/ghpvc/?username=1vnr&style=flat-square)
+![](https://s3bucket-twitchscanner.000webhostapp.com/cut.php)
